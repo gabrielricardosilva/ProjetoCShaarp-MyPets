@@ -1,0 +1,16 @@
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.exe
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.deps.json
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.runtimeconfig.json
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.runtimeconfig.dev.json
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.dll
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\bin\Debug\netcoreapp3.1\ControledeFluxo.pdb
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.csproj.AssemblyReference.cache
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\Controle_de_Fluxo.Form1.resources
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.csproj.GenerateResource.cache
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.AssemblyInfoInputs.cache
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.AssemblyInfo.cs
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.dll
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.pdb
+C:\Users\gabriel.rsilva83\source\repos\Controle de Fluxo\Controle de Fluxo\obj\Debug\netcoreapp3.1\ControledeFluxo.genruntimeconfig.cache
